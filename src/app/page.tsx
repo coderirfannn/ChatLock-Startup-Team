@@ -19,7 +19,7 @@ const teamMembers: TeamMember[] = [
     title: "Founder & Backend Lead",
     description: "Visionary behind ChatLock, overseeing product direction, backend architecture, and company growth.",
     department: "leadership",
-    profilePic: "/placeholder.svg?height=120&width=120",
+    profilePic: "https://res.cloudinary.com/dzdnwsojc/image/upload/v1747141589/qc0obcgdp3rqvvlasifq.webp",
     level: 1,
     manages: ["Roshni", "Manwinder"],
   },
@@ -29,7 +29,7 @@ const teamMembers: TeamMember[] = [
     description:
       "Leading all technical operations with a focus on frontend systems, scalable architecture, and tech innovation.",
     department: "leadership",
-    profilePic: "/placeholder.svg?height=120&width=120",
+    profilePic: "https://res.cloudinary.com/dzdnwsojc/image/upload/v1748366699/WhatsApp_Image_2025-05-27_at_8.37.29_PM_rt23jf.jpg",
     level: 2,
     reportsTo: "Coder Irfan",
     manages: ["Nahin Rahman", "Jagtap", "Shurity"],
@@ -40,7 +40,7 @@ const teamMembers: TeamMember[] = [
     description:
       "Providing ongoing mentorship, ensuring adherence to best practices, and guiding strategic tech decisions.",
     department: "leadership",
-    profilePic: "/placeholder.svg?height=120&width=120",
+    profilePic: "https://res.cloudinary.com/dzdnwsojc/image/upload/v1748366995/Manwinder_ipalso.png",
     level: 2,
     reportsTo: "Coder Irfan",
     manages: ["Arpit"],
@@ -74,6 +74,15 @@ const teamMembers: TeamMember[] = [
     level: 3,
     reportsTo: "Roshni",
   },
+   {
+    name: "Neha",
+    title: "Frontend Developer",
+    description: "Building responsive, dynamic user interfaces with React.js, CSS, and Bootstrap.",
+    department: "development",
+    profilePic: "/placeholder.svg?height=120&width=120",
+    level: 3,
+    reportsTo: "Roshni",
+  },
   {
     name: "Arpit",
     title: "Backend Developer",
@@ -95,11 +104,11 @@ const teamMembers: TeamMember[] = [
     reportsTo: "Coder Irfan",
   },
   {
-    name: "Shalindra Rawat",
+    name: "Shailendra Rawat",
     title: "Strategic Advisor",
     description: "Offering strategic and technical insights to guide ChatLock's development and long-term vision.",
     department: "advisory",
-    profilePic: "/placeholder.svg?height=120&width=120",
+    profilePic: "https://res.cloudinary.com/dzdnwsojc/image/upload/v1748366608/6174655468648122219_srgtyy.jpg",
     level: 1,
   },
 ]
