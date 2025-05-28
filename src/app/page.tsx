@@ -70,7 +70,7 @@ const teamMembers: TeamMember[] = [
     title: "Frontend Developer",
     description: "Building responsive, dynamic user interfaces with React.js, CSS, and Bootstrap.",
     department: "development",
-    profilePic: "/placeholder.svg?height=120&width=120",
+    profilePic: "https://res.cloudinary.com/dzdnwsojc/image/upload/v1748422883/Nahin_da2xzp.jpg",
     level: 3,
     reportsTo: "Roshni",
   },
@@ -99,7 +99,7 @@ const teamMembers: TeamMember[] = [
     description:
       "Designing user engagement strategies, integrating gamified features, and enhancing community interaction.",
     department: "engagement",
-    profilePic: "/placeholder.svg?height=120&width=120",
+    profilePic: "https://res.cloudinary.com/dzdnwsojc/image/upload/v1748422958/Abhinav_Pic_akcnmi.jpg",
     level: 2,
     reportsTo: "Coder Irfan",
   },
